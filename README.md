@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate in the Software Industry.<br>🌱 I’m currently learning Advance Web Development Features<br>⚡ Fun fact "Work hard success is your"
+🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate in the Software Industry.<br>🌱 I’m currently learning Advance Web Development Features<br>⚡ Fun fact "Nothing succeeds like success"
 
 
 ## 🌐 Socials:
