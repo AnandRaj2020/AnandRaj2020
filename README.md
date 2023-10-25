@@ -3,6 +3,7 @@
 
 
 # 💫 About Me:
+Hello, my name is Anand Raj, and I'm a final year student at Vellore Institute of Technology University. I would best describe myself as a dedicated learner, continually working on self-improvement. While there are many ways to characterize me, particularly in technical fields, I identify as a Web Developer.
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate in the Software Industry.<br>🌱 I’m currently learning React.js<br>⚡ Fun fact "Nothing succeeds like success"
 
 
